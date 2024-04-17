@@ -1,3 +1,6 @@
+PROJECT 2: MOBILE SALES DATA ANALYSIS USING SQL AND POWER BI
+PROBLEM STATEMENT: Mobiles are a go to device for everybody in this era. In this project we are going to analyse the sales of mobiles belonging to different brands and also will see which brand has highest and lowest sales in our analysis etc. When buying a mobile will research and pick the best out of all those by considering some of the important features like camera, RAM, software versions, battery capacity, price and many more.
+
 create schema mobile_analysis;
 use mobile_analysis;
 select * from mobiledata;
